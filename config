@@ -207,7 +207,7 @@ label-separator = " "
 [module/openweathermap-simple]
 type = custom/script
 ;format = <label>
-exec = ~/.config/polybar/x70b1-scripts/polybar-scripts/openweathermap-simple/openweathermap-simple-original.sh
+exec = ~/.config/polybar/x70b1-scripts/polybar-scripts/openweathermap-simple/openweathermap-simple.sh
 label-font = 4
 interval = 600
 
