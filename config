@@ -211,13 +211,6 @@ exec = ~/.config/polybar/x70b1-scripts/polybar-scripts/openweathermap-simple/ope
 label-font = 4
 interval = 600
 
-[module/openweathermap-simple2]
-type = custom/script
-format = <label>
-exec = ~/.config/polybar/x70b1-scripts/polybar-scripts/openweathermap-simple/openweathermap-simple2.sh
-label-font = 2
-interval = 600
-
 [settings]
 screenchange-reload = true
 ;compositing-background = xor
